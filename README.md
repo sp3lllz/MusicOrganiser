@@ -20,5 +20,4 @@ The program will then process all MP3 files in the Source Folder by Creating a A
 If the folders already exist it will simply move the MP3 file to the Correct folder
 Progress is indicated by the bar, once the process is complete you will see a Window to confirm transfer is complete
 
-https://github.com/sp3lllz/MusicOrganiser/blob/main/Resources/Screenshot%202024-10-20%20105517.png?raw=true
-
+![Process Complete](https://github.com/sp3lllz/MusicOrganiser/blob/main/Resources/Screenshot%202024-10-20%20105517.png?raw=true)
